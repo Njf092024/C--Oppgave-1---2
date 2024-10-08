@@ -1,0 +1,14 @@
+C:\Koding\C# Oppgave 1 - 2\bin\Debug\net8.0\C# Oppgave 1 - 2.exe
+C:\Koding\C# Oppgave 1 - 2\bin\Debug\net8.0\C# Oppgave 1 - 2.deps.json
+C:\Koding\C# Oppgave 1 - 2\bin\Debug\net8.0\C# Oppgave 1 - 2.runtimeconfig.json
+C:\Koding\C# Oppgave 1 - 2\bin\Debug\net8.0\C# Oppgave 1 - 2.dll
+C:\Koding\C# Oppgave 1 - 2\bin\Debug\net8.0\C# Oppgave 1 - 2.pdb
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\C# Oppgave 1 - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\C# Oppgave 1 - 2.AssemblyInfoInputs.cache
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\C# Oppgave 1 - 2.AssemblyInfo.cs
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\C# Oppgave 1 - 2.csproj.CoreCompileInputs.cache
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\C# Oppgave 1 - 2.dll
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\refint\C# Oppgave 1 - 2.dll
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\C# Oppgave 1 - 2.pdb
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\C# Oppgave 1 - 2.genruntimeconfig.cache
+C:\Koding\C# Oppgave 1 - 2\obj\Debug\net8.0\ref\C# Oppgave 1 - 2.dll
